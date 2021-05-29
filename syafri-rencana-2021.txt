@@ -1,6 +1,8 @@
 Rencana Syafri 2021
 - Saya ingin belajar membuat video
  * Saya ingin belajar editing video sederhana
+   ^ camtasia
+   ^ adobe Ilustrator
  * Saya ingin menggunakan aplikasi adabo primier
    ^ aplikasinya sudah pro
    ^ aplikasi lain
